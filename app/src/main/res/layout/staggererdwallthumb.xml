@@ -15,7 +15,7 @@
         android:layout_height="match_parent"
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
-        android:src="@drawable/img_test"
+       
         app:shapeAppearance="@style/ShapeAppearanceOverlay.App.CornerSize5Percent" />
 
 </LinearLayout>
